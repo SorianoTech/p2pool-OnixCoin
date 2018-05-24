@@ -1,3 +1,10 @@
+Alcance:
+---------------------
+Este ejercicio consiste en crear un node de mineria descentralizada de la moneda OnixCoin partiendo de un fork de dash.
+
+
+
+
 Requirements:
 -------------------------
 Generic:
